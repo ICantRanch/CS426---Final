@@ -1,0 +1,78 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js"
+    ],
+    "file": "_app/immutable/entry/app.4bf57e06.js",
+    "imports": [
+      "_scheduler.e108d1fd.js",
+      "_index.8be4893e.js"
+    ],
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/app.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "_app/immutable/nodes/0.46a0f627.js",
+    "imports": [
+      "_scheduler.e108d1fd.js",
+      "_index.8be4893e.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.95584b26.js",
+    "imports": [
+      "_scheduler.e108d1fd.js",
+      "_index.8be4893e.js",
+      "_singletons.97ad6d10.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "_app/immutable/nodes/2.72489708.js",
+    "imports": [
+      "_scheduler.e108d1fd.js",
+      "_index.8be4893e.js",
+      "_index.0378bb41.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js"
+  },
+  "_index.0378bb41.js": {
+    "file": "_app/immutable/chunks/index.0378bb41.js",
+    "imports": [
+      "_scheduler.e108d1fd.js"
+    ]
+  },
+  "_index.8be4893e.js": {
+    "file": "_app/immutable/chunks/index.8be4893e.js",
+    "imports": [
+      "_scheduler.e108d1fd.js"
+    ]
+  },
+  "_scheduler.e108d1fd.js": {
+    "file": "_app/immutable/chunks/scheduler.e108d1fd.js"
+  },
+  "_singletons.97ad6d10.js": {
+    "file": "_app/immutable/chunks/singletons.97ad6d10.js",
+    "imports": [
+      "_index.0378bb41.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "_app/immutable/entry/start.73beca4d.js",
+    "imports": [
+      "_scheduler.e108d1fd.js",
+      "_singletons.97ad6d10.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js"
+  }
+}
