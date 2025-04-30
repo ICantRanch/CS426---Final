@@ -1,0 +1,23 @@
+error: fetch failed {"cause":{"code":"ECONNREFUSED"},"timestamp":"2023-12-13T00:43:04.797Z"}
+warn: Error: Duplicate sentence {"timestamp":"2023-12-13T00:45:20.164Z"}
+error: fetch failed {"cause":{"code":"ECONNREFUSED"},"timestamp":"2023-12-13T00:46:41.162Z"}
+warn: Error: Duplicate sentence {"timestamp":"2023-12-13T03:07:43.348Z"}
+warn: Error: Duplicate sentence {"timestamp":"2023-12-13T20:16:39.089Z"}
+info: Card Created: Sentence: yo {"timestamp":"2023-12-14T00:18:28.813Z"}
+info: Card Created: Sentence: amigos {"timestamp":"2023-12-14T00:18:42.058Z"}
+info: Card Created: Sentence: Cerveza {"timestamp":"2023-12-14T00:33:57.742Z"}
+info: Card Created: Sentence: Esto está funcionando muy bien {"timestamp":"2023-12-14T01:00:56.445Z"}
+info: Card Created: Sentence: Mis amigos {"timestamp":"2023-12-14T01:01:25.425Z"}
+info: Card Created: Sentence: Mis amigos {"timestamp":"2023-12-14T01:40:57.290Z"}
+info: Card Created: Sentence: Mis amigos {"timestamp":"2023-12-14T01:54:11.675Z"}
+info: Card Created: Sentence: esto esta funcionando muy bien {"timestamp":"2023-12-14T01:54:41.262Z"}
+info: Card Created: Sentence: Mis amigos {"timestamp":"2023-12-14T02:10:51.677Z"}
+info: Card Created: Sentence: Tienes el tiempo {"timestamp":"2023-12-14T02:16:50.554Z"}
+info: Card Created: Sentence: Quieres un sandwich {"timestamp":"2023-12-14T02:17:15.914Z"}
+info: Card Created: Sentence: Gracias por un gran semestre. {"timestamp":"2023-12-14T02:17:47.873Z"}
+info: Card Created: Sentence: Dónde está el baño {"timestamp":"2023-12-14T02:18:16.090Z"}
+info: Card Created: Sentence: Mis amigos {"timestamp":"2023-12-14T02:23:02.949Z"}
+info: Card Created: Sentence: Dónde está el baño {"timestamp":"2023-12-14T02:39:59.804Z"}
+info: Card Created: Sentence: Quieres un sandwich {"timestamp":"2023-12-14T02:40:31.849Z"}
+info: Card Created: Sentence: esto esta funcionando muy bien {"timestamp":"2023-12-14T02:40:36.795Z"}
+info: Card Created: Sentence: Gracias por un gran semestre. {"timestamp":"2023-12-14T02:42:27.209Z"}
